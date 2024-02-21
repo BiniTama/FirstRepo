@@ -1,0 +1,26 @@
+you only talk
+Simran will be on mute
+
+you alk
+
+smile
+acknowledged
+shake head
+
+Use this in case you w abt SQL
+
+	Since, I have been working within Data throughout my career I have good hands on experience with SQL as well. and I can perform all the basic command like select, where, insert, Delete and update. Also, different joins such as inner join, outer join, left join and right join group as well by and union by command. (I have executed SQL with different database such as SQL Server, Oracle as well MS access.)
+
+I have hands on with Azure services Azure offerings, and recently I have been associated to the Data Lakes project where we are getting the data from SQL DB using what we call Azure functions or Azure back-up function, so in this server less move so we are just moving into storage data lakes and then analyse the data into the ETL and then we are going to massage the data and going to visialize using Power BI 
+
+I have also performed ETL testing using informatica, I have also performed SAAS report validation be the function side or at the attribute levels, also I have worked heavily on the enterprise side of Data Warehouse where I have performed testing on API validations using SOAP UI and REST APIs.
+
+I am local so i can come to office, I am in St. Paul, MN.
+
+Thank you, Sure
+
+I had been working as a QA for almost 8 years now, and throughout my career I have been involved with various SDLC specifically focusing on waterfall and agile, and I also have been involved into leading the effort in STLC testing lifecycle which includes participating in the requirement review session, req gathering session by closely working with the BA's and eventually setting up the test plan, setting up the test data document by working with the development team, and then creating and miniating the test cases as well as test scenarios and then utilizing JIRA as part of Agile tool or Quality center as test management tool, perform hands on test execution, log the result and run the defect in test status meeting and eventually lead the entire UAT effort as well. 
+
+I was also involved in the Enterprise Data Warehouse where we had to consolidate the data from different interfaces. And my job was to validate the Data moment from these Source to Target. I also had to gather the data inputs from Business Team as well as Data team to create and maintain the Transformation Rule requirement. I created and maintained class diagrams, Database diagrams as well Data warehouse process diagrams using MS vision. Also, I was heavily involved in Extracting the data, loading the data, cleaning and transforming the data within Enterprise Data Warehouse. Since, I have been working within Data throughout my career I have good hands on experience with SQL as well. 
+
+I have used 
